@@ -1,5 +1,5 @@
 class Node:
-    def __init__(self, value, next_node=None):
+    def __init__(self, ,):
         pass
     
     def get_value(self):
@@ -8,7 +8,7 @@ class Node:
     def get_next_node(self):
         pass
     
-    def set_next_node(self, next_node):
+    def set_next_node(self, ):
         pass
 
     
